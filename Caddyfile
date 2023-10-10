@@ -1,0 +1,6 @@
+{
+  order hello_world last
+}
+localhost {
+  hello_world
+}
