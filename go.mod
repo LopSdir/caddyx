@@ -1,4 +1,4 @@
-module bridge
+module github.com/LopSdir/caddyx
 
 go 1.21.2
 
